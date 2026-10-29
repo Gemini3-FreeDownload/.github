@@ -23,13 +23,10 @@ Gemini 3 tops the reasoning charts and sees the world in every format at once â€
 | :---: | :---: | :---: |
 | *Gemini image generation* | *Gemini deep research* | *Gemini video generation* |
 
-<p align="center"><sub>Official Gemini logo, artwork and app screens from Google.</sub></p>
-
 ## Multimodal to the core
 
 | Feed it | It understands |
 | --- | --- |
-
 
 ## Why Gemini 3, why now
 
@@ -37,8 +34,6 @@ Gemini 3 tops the reasoning charts and sees the world in every format at once â€
 - **Massive context** â€” books and codebases in a single conversation
 - **Native image generation** â€” ask for words, get words and pictures back
 - **Speed** â€” answers start instantly, even on long tasks
-
-| :---: | :---: |
 
 ## Download
 
