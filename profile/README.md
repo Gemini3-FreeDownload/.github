@@ -30,7 +30,7 @@ Gemini 3 tops the reasoning charts and sees the world in every format at once �
 - **Native image generation** — ask for words, get words and pictures back
 - **Speed** — answers start instantly, even on long tasks
 
-| <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/shot2.jpg" alt="Gemini 3 analyzing an image"> | <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/shot3.jpg" alt="Gemini 3 creative generation"> |
+| <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/shot2.jpg" alt="Gemini 3 analyzing an image"> | <img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Gemini 3 creative generation"> |
 | :---: | :---: |
 | *Show it anything* | *Ideas, visualized* |
 
