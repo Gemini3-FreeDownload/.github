@@ -21,7 +21,7 @@ Gemini 3 tops the reasoning charts and sees the world in every format at once â€
 | **Code** | Whole repositories, not just files |
 | **Audio** | Meetings and voice notes, transcribed and mined |
 
-<img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/preview.jpg" alt="Gemini 3 AI on a Windows PC" width="100%">
+<img src="https://raw.githubusercontent.com/Gemini3-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Gemini 3 AI on a Windows PC" width="100%">
 
 ## Why Gemini 3, why now
 
